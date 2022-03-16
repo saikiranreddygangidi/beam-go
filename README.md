@@ -1,7 +1,7 @@
 **here is the commands to work with go**
 
 - By using first we can go to version
-  - my output is  "go version go1.18 windows/AMD "
+  - my output is  "go version go1.18 windows/AMD "
 - Here what we are doing is we are getting apache beam using the second command and we are getting the wordcount by using third commands respectively and by using the fourth command we will generate the output file with word count.
 
 ```
